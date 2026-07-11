@@ -31,7 +31,7 @@ QUIZ-APP/
 4. User selections are checked against the correct answer.
 5. At the end, the app shows results with feedback (Bad, Good, Perfect).
 ---
-##🛠️ Technologies
+##  🛠️ Technologies
 HTML5
 CSS3
 Vanilla JavaScript (ES6)
