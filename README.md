@@ -30,12 +30,12 @@ QUIZ-APP/
 3. A countdown timer runs for each question.
 4. User selections are checked against the correct answer.
 5. At the end, the app shows results with feedback (Bad, Good, Perfect).
-
+---
 ##🛠️ Technologies
 HTML5
 CSS3
 Vanilla JavaScript (ES6)
-
+---
 ##📸 Demo
 Hosted on GitHub Pages:
-👉 Quiz App Live Demo
+👉 Quiz App Live Demo https://ul2imate.github.io/QUIZ-APP/?utm_source=copilot.com
